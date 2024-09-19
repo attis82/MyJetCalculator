@@ -22,6 +22,6 @@ The primary goal of this app is to serve as a **System Under Test (SUT)** to val
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/calculator-app
+   git clone https://github.com/attis82/MyJetCalculator/
 
 
